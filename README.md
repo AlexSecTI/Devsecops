@@ -4,3 +4,5 @@ Es el proceso de integración de la seguridad en los procesos de desarrollo y op
 
 
 https://creativefusion.medium.com/massive-resources-learning-paths-and-collection-for-devsecops-cacfda8f17be
+
+
